@@ -1,4 +1,4 @@
-FROM debian:jessie-backports
+FROM debian:testing
 
 MAINTAINER https://github.com/gnilchee
 
